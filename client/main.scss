@@ -3,3 +3,7 @@ $primary-color: color("blue", "lighten-4");
 @import "{poetic:materialize-scss}/sass/materialize.scss";
 
 @import "./stylesheets/_stickyfooter.scss";
+
+.full-w{
+  width: 100%;
+}
