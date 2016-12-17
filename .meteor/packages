@@ -34,3 +34,4 @@ browser-policy-framing@1.0.12
 alanning:roles
 cunneen:accounts-admin-materializecss
 mdg:camera
+iron:middleware-stack@1.1.0
